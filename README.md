@@ -1,0 +1,1 @@
+This file is my future reference. Everytime if I need to start a project, I don't have to code from scratch. Common rules and code can be written.
